@@ -4,7 +4,10 @@ This is a simple application that has integration with MOV.AI libraries.
 
 It's purpose is to show how to use MOV.AI libraries outside of a robot container, and in a client context.
 
-## Install pnpm (if not installed
+
+Note: Currently, you will have to have set up a compatible ~/.npmrc
+
+## Install pnpm (if not installed)
 ```eh
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
 source ~/.bashrc
